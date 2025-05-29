@@ -3,16 +3,6 @@
 
 ---
 
-## 📂 Навигация
-
-* [Обо мне](#обо-мне)
-* [Технологии и Инструменты](#технологии-и-инструменты)
-* [Статистика GitHub](#статистика-github)
-* [Достижения](#достижения)
-* [Контакты](#контакты)
-
----
-
 ## 👋 Обо мне
 
 Привет! Я Тимур — backend-разработчик с уклоном в создание API, микросервисов и систем обработки данных. Обучаюсь по специальности Data Science, где активно изучаю машинное обучение и работу с данными. Несмотря на это, мой фокус — это **надежный и эффективный backend**, в котором я чувствую себя значительно увереннее, чем в ML.
@@ -33,7 +23,6 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge&logo=uvicorn&logoColor=white" alt="Uvicorn"/>
   <img src="https://img.shields.io/badge/Gunicorn-2EA44F?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
