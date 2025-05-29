@@ -29,23 +29,23 @@
 
 <h3 align="center">📊 Статистика GitHub</h3>
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/mindcoree?label=Commits&color=purple" alt="Total Commits"/>
-  <img src="https://img.shields.io/github/stars/mindcoree?label=Stars&color=blue" alt="Total Stars"/>
-  <img src="https://img.shields.io/github/repos/mindcoree?label=Repositories&color=green" alt="Total Repositories"/>
+  <img src="https://img.shields.io/github/commit-activity/y/mindcoree?label=Commits&color=purple" alt="Total Commits" />
+  <img src="https://img.shields.io/github/stars/mindcoree?label=Stars&color=blue" alt="Total Stars" />
+  <img src="https://img.shields.io/github/repo-size/mindcoree?label=Repositories&color=green" alt="Total Repositories" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mindcoree&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mindcoree&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcoree&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcoree&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindcoree&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindcoree&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 <h3 align="center">🏆 Достижения</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mindcoree&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mindcoree&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
