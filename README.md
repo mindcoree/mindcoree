@@ -29,11 +29,6 @@
 
 <h3 align="center">📊 Статистика GitHub</h3>
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/mindcoree?label=Commits&color=purple" alt="Total Commits" />
-  <img src="https://img.shields.io/github/stars/mindcoree?label=Stars&color=blue" alt="Total Stars" />
-  <img src="https://img.shields.io/github/repo-size/mindcoree?label=Repositories&color=green" alt="Total Repositories" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mindcoree&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
