@@ -59,6 +59,6 @@
 
 ## 📢 Контакты
 
-* Email: [250740@alau.edu.kz](mailto:250740@alau.edu.kz)
+* Email: [cardinall1304@gmail.com](cardinall1304@gmail.com)
 * GitHub: [mindcoree](https://github.com/mindcoree)
-* Telegram: [@твойник](https://t.me/твойник)
+* Telegram: [@mindcoreee](https://t.me/mindcoreee)
