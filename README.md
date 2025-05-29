@@ -16,10 +16,19 @@
 ## 🛠️ Технологии и Инструменты
 
 <p align="center">
-  <img src="https://skill-icons.dev/icons?i=python,fastapi,sqlalchemy,postgres,sqlite,gunicorn,docker,numpy,pandas,tensorflow,matplotlib" alt="Tech Stack"/>
-</p>
-<p align="center">
-  Также использую <b>FastAPI-Users</b> для аутентификации и <b>Alembic</b> для миграций баз данных.
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/FastAPI--Users-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Users"/>
+  <img src="https://img.shields.io/badge/Alembic-8B0000?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Gunicorn-2EA44F?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
 </p>
 
 ---
@@ -28,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mindcoree&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p alinew="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcoree&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
