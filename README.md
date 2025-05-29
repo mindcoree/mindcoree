@@ -3,15 +3,6 @@
 
 ---
 
-## 📂 Навигация
-
-* [Обо мне](#обо-мне)
-* [Технологии и Инструменты](#технологии-и-инструменты)
-* [Статистика GitHub](#статистика-github)
-* [Достижения](#достижения)
-* [Контакты](#контакты)
-
----
 
 ## 👋 Обо мне
 
@@ -23,16 +14,20 @@
 
 ---
 
-<h3 align="center">🛠️ Технологии и Инструменты</h3>
+## 🛠️ Технологии и Инструменты
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@2.16.0/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40" alt="SQLAlchemy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/FastAPI--Users-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Users"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+  <img src="https://img.shields.io/badge/Alembic-8B0000?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
