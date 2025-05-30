@@ -19,7 +19,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/FastAPI--Users-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Users"/>
   <img src="https://img.shields.io/badge/Alembic-8B0000?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
