@@ -57,4 +57,4 @@
 
 * Email: [cardinall1304@gmail.com](cardinall1304@gmail.com)
 * GitHub: [mindcoree](https://github.com/mindcoree)
-* Telegram: [@mindcoreee](https://t.me/mindcoreee)
+* Telegram: [@mindcoreee](https://t.me/min_dcore)
