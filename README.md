@@ -3,14 +3,46 @@
 
 ---
 
+## 💡 Обо мне
+Русская версия
+Привет! Я Тимур — Machine Learning Engineer с сильной математической базой и опытом создания backend-систем.
+Раньше я занимался разработкой API и CRUD-приложений, писал авторизацию, регистрацию и взаимодействие с SQL-базами. Этот опыт помог мне понять, как устроены данные “на практике” и как их грамотно готовить для анализа и обучения моделей.
 
-## 👋 Обо мне
+Сейчас мой основной фокус — машинное обучение и математические основы алгоритмов. Я не просто использую готовые модели, а реализую их с нуля, разбираясь, как именно они работают.
+Изучил и применяю:
+• методы оптимизации — SGD, Momentum, NAG (Нестерова), RMSProp, Adam;
+• подходы к оценке параметров — MLQ (метод наименьших квадратов) и MLE (метод максимального правдоподобия);
+• алгоритмы — SVM, LDA, наивный и гауссовский байесовские классификаторы;
+• регуляризацию (L1/L2) и влияние норм на переобучение.
 
-Привет! Я Тимур — backend-разработчик с уклоном в создание API, микросервисов и систем обработки данных. Обучаюсь по специальности Data Science, где активно изучаю машинное обучение и работу с данными. Несмотря на это, мой фокус — это **надежный и эффективный backend**, в котором я чувствую себя значительно увереннее, чем в ML.
+С математической стороны:
+• Линейная алгебра для меня не ограничивается операциями над матрицами — я понимаю смысл базиса, линейных отображений, проекций и разложений, и как всё это связывает пространство признаков с весами модели.
+• Математический анализ — это не просто производные, а инструмент понимания поведения функции ошибки: как градиент и гессиан описывают направление и кривизну, как работают методы оптимизации при ограничениях (Лагранжиан, критерий Сильвестра, обрамляющие миноры).
+• Математическая статистика — не только формулы, а логика вывода. Понимаю, как строятся статистические выводы, зачем нужна ЦПТ, как работает проверка гипотез и чем отличается априорное и апостериорное рассуждение.
 
-Мне действительно нравится математика: **линейная алгебра**, **математический анализ**, логика и дискретка. Верю, что прочная математическая база помогает писать более качественный и понятный код.
+В машинном обучении я прошёл путь от простых моделей до полного понимания их основ: SVM, LDA, наивный и гауссовский байесовский классификаторы, регуляризации (L1/L2) и их влияние на устойчивость и переобучение.
+
+Мне нравится, когда алгоритм перестаёт быть “чёрным ящиком”. Я стремлюсь к тому, чтобы каждая строчка кода в модели была понятна и имела математическое обоснование.
 
 Также интересуюсь алгоритмами, асинхронностью и архитектурой приложений.
+
+
+🇬🇧 English Version
+Hi! I’m Timur — a Machine Learning Engineer with a strong mathematical foundation and experience in building backend systems.
+Earlier, I developed API and CRUD applications, implementing authentication, registration, and SQL database interaction. This experience helped me understand how data is structured in practice and how to prepare it properly for analysis and model training.
+My main focus now is machine learning and the mathematical principles behind algorithms. I don’t just use prebuilt models — I implement them from scratch to truly understand how they work.
+I’ve studied and applied:
+• optimization methods — SGD, Momentum, NAG (Nesterov accelerated gradient), RMSProp, Adam;
+• parameter estimation approaches — MLQ (method of least squares) and MLE (maximum likelihood estimation);
+• algorithms — SVM, LDA, Naive Bayes and Gaussian Bayes classifiers;
+• regularization techniques (L1/L2) and their effect on overfitting and model stability.
+From the mathematical side:
+• Linear algebra for me is not just about matrix operations — I understand the meaning of bases, linear mappings, projections, and decompositions, and how they connect feature spaces with model weights.
+• Mathematical analysis is more than derivatives — it’s a tool for understanding the behavior of the loss function: how gradients and Hessians describe direction and curvature, and how constrained optimization works (Lagrangian method, Sylvester’s criterion, bordered minors).
+• Mathematical statistics is not only about formulas — it’s about reasoning. I understand how statistical inference is built, why the Central Limit Theorem matters, how hypothesis testing works, and the difference between prior and posterior reasoning.
+In machine learning, I’ve gone from simple models to a full understanding of their theoretical foundations — from SVM and LDA to Bayesian classifiers and regularization techniques (L1/L2).
+I enjoy when an algorithm stops being a black box. I strive to make every line of code in a model clear and mathematically justified.
+I’m also interested in algorithms, asynchronous programming, and application architecture.
 
 ---
 
@@ -54,7 +86,8 @@
 ---
 
 ## 📢 Контакты
-
+* linkedin: [Timur](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 * Email: [cardinall1304@gmail.com](cardinall1304@gmail.com)
 * GitHub: [mindcoree](https://github.com/mindcoree)
 * Telegram: [@mindcoreee](https://t.me/min_dcore)
+  
