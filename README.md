@@ -1,5 +1,5 @@
-<h1 align="center">Привет 🖖, я Тимур</h1>
-<h3 align="center">Backend Developer | Data Science & ML Student | Математика & Алгоритмы</h3>
+<h1 align="center">Hi! I’m Timur</h1>
+<h3 align="center">Data Science & ML Student | Backend Developer | Математика & Алгоритмы</h3>
 
 ---
 
