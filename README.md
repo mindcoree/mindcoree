@@ -1,99 +1,44 @@
-<h1 align="center">Hi! I’m Timur</h1>
-<h3 align="center">Data Science & ML Student | Backend Developer | Математика & Алгоритмы</h3>
+# Hi, I'm Timur 👋
+**Data Engineer | Backend Developer | Math & ML Enthusiast**
 
 ---
 
-## 💡 Обо мне
-### Русская версия
+### 🚀 About Me
+I am a **Data Engineer** with a solid **Backend** background. My transition from building APIs to managing data pipelines is fueled by a deep understanding of mathematical foundations and system architecture. I don't just move data; I ensure its integrity, scalability, and mathematical correctness.
 
-Привет! Я Тимур — Machine Learning Engineer с сильной математической базой и опытом создания backend‑систем. Раньше я занимался разработкой API и CRUD‑приложений, писал авторизацию, регистрацию и взаимодействие с SQL‑базами. Этот опыт помог мне понять, как устроены данные «на практике» и как их грамотно готовить для анализа и обучения моделей.
-
-Сейчас мой основной фокус — машинное обучение и математические основы алгоритмов. Я не просто использую готовые модели, а реализую их с нуля, разбираясь, как именно они работают.
-
-Изучил и применяю:
-- методы оптимизации — SGD, Momentum, NAG (Нестерова), RMSProp, Adam;
-- подходы к оценке параметров — МНК (метод наименьших квадратов) и MLE (метод максимального правдоподобия);
-- алгоритмы — SVM, LDA, наивный и гауссовский байесовские классификаторы;
-- регуляризацию (L1/L2) и влияние норм на переобучение.
-
-С математической стороны:
-- Линейная алгебра для меня не ограничивается операциями над матрицами — я понимаю смысл базиса, линейных отображений, проекций и разложений, и как всё это связывает пространство признаков с весами модели.
-- Математический анализ — это не просто производные, а инструмент понимания поведения функции ошибки: как градиент и гессиан описывают направление и кривизну, как работают методы оптимизации при ограничениях (Лагранжиан, критерий Сильвестра, обрамляющие миноры).
-- Математическая статистика — не только формулы, а логика вывода. Понимаю, как строятся статистические выводы, зачем нужна ЦПТ, как работает проверка гипотез и чем отличается априорное и апостериорное рассуждение.
-
-В машинном обучении я прошёл путь от простых моделей до полного понимания их основ: SVM, LDA, наивный и гауссовский байесовские классификаторы, регуляризации (L1/L2) и их влияние на устойчивость и переобучение.
-
-Мне нравится, когда алгоритм перестаёт быть «чёрным ящиком». Я стремлюсь к тому, чтобы каждая строчка кода в модели была понятна и имела математическое обоснование.
-
-Также интересуюсь алгоритмами, асинхронностью и архитектурой приложений.
+- 🏗️ **Currently focusing on:** Data Engineering (ETL/ELT, Data Warehousing, Orchestration).
+- 🧠 **Math Core:** Deep knowledge of Linear Algebra, Statistics, and Optimization (SGD, Adam, MLE).
+- ⚙️ **Philosophy:** Moving away from "Black Box" solutions towards transparent, architecturally sound data systems.
 
 ---
 
-### English version
+### 🛠️ Tech Stack
 
-Hi — I’m Timur, a Machine Learning Engineer with a strong mathematical background and experience in building backend systems. Previously I developed APIs and CRUD applications, implemented authentication and registration flows, and worked with SQL databases. That hands‑on backend experience taught me how data looks "in practice" and how to prepare it correctly for analysis and model training.
+**Data Engineering & Backend**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square)
 
-My current focus is machine learning and the mathematical foundations of algorithms. I don’t just use off‑the‑shelf models — I implement them from scratch to understand exactly how they work.
+**Data Science & Analysis**
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-I have studied and applied:
-- optimization methods — SGD, Momentum, NAG (Nesterov), RMSProp, Adam;
-- parameter estimation approaches — OLS (ordinary least squares) and MLE (maximum likelihood estimation);
-- algorithms — SVM, LDA, Naive and Gaussian Bayes classifiers;
-- regularization (L1/L2) and the effect of norms on overfitting.
-
-From the mathematical side:
-- Linear algebra is more than matrix operations for me — I understand bases, linear mappings, projections and decompositions, and how these connect feature spaces with model weights.
-- Mathematical analysis is not just derivatives — it’s a tool to understand loss behaviour: how gradients and the Hessian describe direction and curvature, and how constrained optimization works (Lagrangian, Sylvester’s criterion, bordered minors).
-- Mathematical statistics is not only formulas but the logic of inference. I understand how statistical conclusions are built, why the Central Limit Theorem matters, how hypothesis testing works and the difference between prior and posterior reasoning.
-
-In machine learning I progressed from simple models to a deep understanding of their foundations: SVM, LDA, Naive and Gaussian Bayes classifiers, and the role of L1/L2 regularization in model stability and generalization.
-
-I enjoy when an algorithm stops being a "black box" — I aim for code where every line is understandable and mathematically justified. I’m also interested in algorithms, asynchronous programming and application architecture.
+*Next on the list: Apache Airflow, Spark, Kafka.*
 
 ---
 
-## 🛠️ Технологии и Инструменты
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Alembic-8B0000?style=for-the-badge&logo=alembic&logoColor=white" alt="Alembic"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-8B0000?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge&logo=uvicorn&logoColor=white" alt="uvicorn"/>
-  <img src="https://img.shields.io/badge/Gunicorn-2EA44F?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mindcoree&show_icons=true&theme=radical&hide_border=true" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcoree&layout=compact&theme=radical&hide_border=true" width="300" />
 </p>
 
 ---
 
-<h3 align="center">📊 Статистика GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mindcoree&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcoree&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindcoree&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="center">🏆 Достижения</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mindcoree&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📢 Контакты
-* linkedin: [Timur](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-* Email: [cardinall1304@gmail.com](cardinall1304@gmail.com)
-* GitHub: [mindcoree](https://github.com/mindcoree)
-* Telegram: [@mindcoreee](https://t.me/min_dcore)
-  
+### 📧 Contact Me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/min_dcore)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK_HERE)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cardinall1304@gmail.com)
