@@ -34,6 +34,15 @@ I am a **Data Engineer** with a solid **Backend** background. My transition from
 
 ---
 
+### Data Engineering & Backend
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,fastapi,docker,redis,n8n)](https://skillicons.dev)
+
+### Data Science & Analysis
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib,seaborn)](https://skillicons.dev)
+
+---
+
+
 ## 📊 Статистика
 <div align="center">
   <table border="0">
