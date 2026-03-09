@@ -3,15 +3,14 @@
 
 ---
 
-## 💡 Обо мне
-Я — **Data Engineer** с бэкграундом в **Backend** разработке. Мой переход от создания API к управлению конвейерами данных подкреплен глубоким пониманием математических основ и архитектуры систем.
+### 🚀 About Me
+I am a **Data Engineer** with a solid **Backend** background. My transition from building APIs to managing data pipelines is fueled by a deep understanding of mathematical foundations and system architecture. I don't just move data; I ensure its integrity, scalability, and mathematical correctness.
 
-- 🏗️ **Фокус:** ETL/ELT процессы, хранилища данных и оркестрация.
-- 🧠 **Математика:** Линейная алгебра, статистика и методы оптимизации (SGD, Adam, MLE).
-- ⚙️ **Философия:** Создание прозрачных и масштабируемых систем обработки данных.
+- 🏗️ **Currently focusing on:** Data Engineering (ETL/ELT, Data Warehousing, Orchestration).
+- 🧠 **Math Core:** Deep knowledge of Linear Algebra, Statistics, and Optimization (SGD, Adam, MLE).
+- ⚙️ **Philosophy:** Moving away from "Black Box" solutions towards transparent, architecturally sound data systems.
 
 ---
-
 
 ## 🛠️ Технологии
 
@@ -39,18 +38,7 @@
 
 ---
 
-<div align="center">
-  <h3>📅 Contribution Graph</h3>
-  <br/>
-  <img src="https://ghchart.rshah.org/ffffff/mindcoree" alt="Timur's Blue GitHub Chart" width="100%" />
-  <br/>
-  <sub><i>График активности за последний год</i></sub>
-</div>
----
-
 ## 📢 Контакты
 * **Telegram:** [@mindcoreee](https://t.me/min_dcore)
 * **LinkedIn:** [Timur](https://www.linkedin.com/in/YOUR_LINK_HERE)
 * **Email:** [cardinall1304@gmail.com](mailto:cardinall1304@gmail.com)
-
----
