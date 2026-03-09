@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 About Me
-I am a **Data Engineer** with a solid **Backend** background. My transition from building APIs to managing data pipelines is fueled by a deep understanding of mathematical foundations and system architecture. I don't just move data; I ensure its integrity, scalability, and mathematical correctness.
+I am a **Data Engineer** with a solid **Backend** background. My transition from building APIs to managing data pipelines is fueled by a deep understanding of mathematical foundations and system architecture.
 
-- 🏗️ **Currently focusing on:** Data Engineering (ETL/ELT, Data Warehousing, Orchestration).
+- 🏗️ **Currently focusing on:** ETL/ELT pipelines, Data Warehousing, and Orchestration.
 - 🧠 **Math Core:** Deep knowledge of Linear Algebra, Statistics, and Optimization (SGD, Adam, MLE).
-- ⚙️ **Philosophy:** Moving away from "Black Box" solutions towards transparent, architecturally sound data systems.
+- ⚙️ **Philosophy:** Building transparent, architecturally sound, and scalable data systems.
 
 ---
 
@@ -26,25 +26,24 @@ I am a **Data Engineer** with a solid **Backend** background. My transition from
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
-![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-*Next on the list: Apache Airflow, Spark, Kafka.*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mindcoree&show_icons=true&theme=radical&hide_border=true" alt="Timur's Stats" width="400" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=mindcoree&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-theta-orcin-12.vercel.app/api/top-langs/?username=mindcoree&layout=compact&theme=dark&hide_border=true&bg_color=011117" alt="Top Languages" />
+</p>
+
+<details>
+  <summary>🗓️ <b>Contribution Calendar</b></summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcoree&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
-</p>
-
----
-
-### 🏆 Achievement Streak
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindcoree&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img src="https://metrics.lecoq.io/mindcoree?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=fullyear" alt="Full Year Calendar">
+</details>
 
 ---
 
