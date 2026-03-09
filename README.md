@@ -35,9 +35,23 @@
       </td>
     </tr>
   </table>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
-  <img src="https://platane.github.io/snk/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <details open>
+    <summary>📊 <b>Full year calendar</b></summary>
+    <br/>
+    <img alt="Full Year" width="800" src="https://metrics.lecoq.io/mindcoree?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=fullyear">
+  </details>
+  
+  <details>
+    <summary>🗓️ <b>Half year calendar</b></summary>
+    <br/>
+    <img alt="Half Year" width="800" src="https://metrics.lecoq.io/mindcoree?base=0&plugin_isocalendar=1">
+  </details>
+  <img width="900" height="1" alt="">
 </div>
 
 ---
@@ -46,3 +60,5 @@
 * **Telegram:** [@mindcoreee](https://t.me/min_dcore)
 * **LinkedIn:** [Timur](https://www.linkedin.com/in/YOUR_LINK_HERE)
 * **Email:** [cardinall1304@gmail.com](mailto:cardinall1304@gmail.com)
+
+---
