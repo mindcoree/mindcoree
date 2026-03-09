@@ -38,5 +38,5 @@ I am a **Data Engineer** with a solid **Backend** background. My transition from
 
 ## 📢 Контакты
 * **Telegram:** [@mindcoreee](https://t.me/min_dcore)
-* **LinkedIn:** [Timur](https://www.linkedin.com/in/YOUR_LINK_HERE)
+* **LinkedIn:** [Timur](https://www.linkedin.com/in/timur-medikhanov-a672b2365)
 * **Email:** [cardinall1304@gmail.com](mailto:cardinall1304@gmail.com)
