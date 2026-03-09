@@ -19,11 +19,13 @@ I am a **Data Engineer** with a solid **Backend** background. My transition from
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Data Science & Analysis**
+**Data Science & Visualization**
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
 ![ScikitLearn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 *Next on the list: Apache Airflow, Spark, Kafka.*
@@ -32,8 +34,16 @@ I am a **Data Engineer** with a solid **Backend** background. My transition from
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mindcoree&show_icons=true&theme=radical&hide_border=true" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcoree&layout=compact&theme=radical&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mindcoree&show_icons=true&theme=radical&hide_border=true" alt="Timur's Stats" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcoree&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="300" />
+</p>
+
+---
+
+### 🏆 Achievement Streak
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindcoree&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
