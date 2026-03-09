@@ -33,12 +33,13 @@ I am a **Data Engineer** with a solid **Backend** background. My transition from
 ![n8n](https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
 
 ---
-
 ### Data Engineering & Backend
-[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,fastapi,docker,redis,n8n)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,fastapi,docker,redis,linux,git)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/-n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" height="48" />
 
 ### Data Science & Analysis
-[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib,seaborn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,sklearn,matplotlib)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square" height="48" />
 
 ---
 
