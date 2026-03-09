@@ -40,20 +40,12 @@
 ---
 
 <div align="center">
-  <details open>
-    <summary>📊 <b>Full year calendar</b></summary>
-    <br/>
-    <img alt="Full Year" width="800" src="https://metrics.lecoq.io/mindcoree?base=0&plugin_isocalendar=1&plugin_isocalendar_duration=fullyear">
-  </details>
-  
-  <details>
-    <summary>🗓️ <b>Half year calendar</b></summary>
-    <br/>
-    <img alt="Half Year" width="800" src="https://metrics.lecoq.io/mindcoree?base=0&plugin_isocalendar=1">
-  </details>
-  <img width="900" height="1" alt="">
+  <h3>📅 Contribution Graph</h3>
+  <br/>
+  <img src="https://ghchart.rshah.org/ffffff/mindcoree" alt="Timur's Blue GitHub Chart" width="100%" />
+  <br/>
+  <sub><i>График активности за последний год</i></sub>
 </div>
-
 ---
 
 ## 📢 Контакты
