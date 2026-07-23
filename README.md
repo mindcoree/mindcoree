@@ -25,12 +25,10 @@ I am a **Data Engineer** with a solid **Backend** background. My transition from
   <table border="0">
     <tr>
       <td align="center">
-        <!-- Официальная ссылка для Streak Stats -->
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=mindcoree&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats" width="400" />
       </td>
       <td align="center">
-        <!-- Официальная ссылка для Top Langs -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindcoree&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Langs" width="300" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mindcoree&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Langs" width="300" />
       </td>
     </tr>
   </table>
