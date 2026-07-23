@@ -23,7 +23,7 @@ I am a **Data Engineer** with a solid **Backend** background. My transition from
 ## 📊 Статистика
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LINESKL&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=mindcoree&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=F0F6FC&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
